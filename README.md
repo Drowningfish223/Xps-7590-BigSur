@@ -1,7 +1,7 @@
 # Xps-7590-BigSur
 Hackintosh EFI for XPS 7590/Precision 5540
 
-**MAKE SURE YOU PUT IN YOUR OWN SERIAL, MLB, ROM, ect**__. You can follow this guide: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#platforminfo
+****MAKE SURE YOU PUT IN YOUR OWN SERIAL, MLB, ROM, ect****. You can follow this guide: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#platforminfo
 
 BIOS settings:
 
