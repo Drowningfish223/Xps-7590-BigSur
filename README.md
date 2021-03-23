@@ -14,3 +14,10 @@ Working:
 Everything (if you're willing to make changes). Using this repo exactly as it is, only Thunderbolt and SD card reader don't work. To fix thunderbolt, enable ssdt-tb3 then enable Thunderbolt in the BIOS. Keep the controller at Native, not Bios assist. Enabling Thunderbolt may take ~2 additional watts. I haven't done the testing to figure out.
 
 For SD card reader, remap USB ports with this guide: https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html to include the SD card reader **or** disable USBports.kext (may cause instability). Then enable the sinetek-rtsx kext in the config.plist. Reboot, then make sure the SD card is enabled in the BIOS. After that, you should be good to go.
+
+
+Initial credits (I'll improve if people actually start seeing this repo):
+
+@xxxzc
+
+@jaromeyor
