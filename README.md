@@ -21,5 +21,6 @@ For SD card reader, remap USB ports with this guide: https://dortania.github.io/
 Initial credits (I'll improve if people actually start seeing this repo):
 
 @xxxzc
+https://github.com/xxxzc/xps15-9570-macos
 
 @jaromeyor
