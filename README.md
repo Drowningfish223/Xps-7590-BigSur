@@ -5,6 +5,8 @@ Hackintosh EFI for XPS 7590/Precision 5540. OC 6.5. Follow this guide (https://d
 
 BIOS settings:
 
+This: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#intel-bios-settings
+Plus-
 Thunderbolt: Displayport and USB C only
 Native Thunderbolt control-not bios assist
 
