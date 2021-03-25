@@ -7,7 +7,7 @@ BIOS settings:
 
 This: https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#intel-bios-settings
 Plus-
-Thunderbolt: Displayport and USB C only
+Thunderbolt: Displayport and USB C only |
 Native Thunderbolt control-not bios assist
 
 
